@@ -1,0 +1,5 @@
+matplotlib==3.8.2
+matplotlib-inline==0.1.6
+numpy==1.26.3
+pyscf==2.4.0
+scipy==1.12.0
